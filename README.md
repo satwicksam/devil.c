@@ -7,7 +7,7 @@ int main()
      {
            for(j=0;j<3;j++) 
            {
-                  printf("Endisp[%d][%d]:", i, j);
+                  printf("Ep[%d][%d]:", i, j);
                   scanf("%d", &disp[i][j]);
             }
      }
